@@ -23,15 +23,6 @@
     <!-- Media notification -->
     <string name="artwork_media_title">🎼 Miku Media notification</string>
 
-     <!-- Monet Engine -->
-     <string name="monet_engine_custom_color_title">Use custom color</string>
-     <string name="monet_engine_custom_color_summary">Use custom color for monet engine instead of wallpaper colors</string>
-     <string name="monet_engine_color_override_title">Custom color</string>
-     <string name="monet_engine_white_luminance_user_title">White luminance</string>
-     <string name="monet_engine_accurate_shades_title">Use accurate shades</string>
-     <string name="monet_engine_chroma_factor_title">Chroma factor</string>
-     <string name="monet_engine_linear_lightness_title">Use linear lightness</string>
-
     <!-- Statusbar net monitor -->
     <string name="traffic_title">🌐 Traffic Indicators</string>
     <string name="network_traffic">🌐 Network traffic</string>
@@ -65,9 +56,5 @@
     <string name="theme_customization_icon_pack_summary">Great~ Set custom icon for StatusBar</string>
     <!-- [CHAR_LIMIT=NONE] Developer Settings: Label for the option that turns off customizations for a given category.-->
     <string name="theme_customization_device_default">Device default</string>
-
-     <!-- UI settings -->
-     <string name="monet_title">🎨 Monet settings</string>
-     <string name="monet_summary">Customize Monet theme engine</string>
 
 </resources>
