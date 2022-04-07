@@ -32,20 +32,20 @@
     <string name="traffic_title">🌐 Traffic Indicators</string>
     <string name="network_traffic">🌐 Network traffic</string>
     <string name="network_traffic_state_title">Network traffic display</string>
-    <string name="network_traffic_location">Traffic indicator placement</string>
-    <string name="traffic_disabled">Disabled</string>
+    <string name="network_traffic_location">Where should we show the Traffic Indicator?</string>
+    <string name="traffic_disabled">Damedesu!</string>
     <string name="traffic_statusbar">Statusbar</string>
     <string name="traffic_expanded_statusbar">Expanded header</string>
     <string name="network_traffic_autohide_threshold_title">Net activity autohide threshold (KB/s)</string>
     <string name="network_traffic_arrow">Show arrows</string>
-    <string name="network_traffic_arrow_summary">Show the network traffic indicator arrows</string>
-    <string name="network_traffic_type">Select net activity type</string>
-    <string name="show_network_traffic_combined">Combined (Upload + Download)</string>
-    <string name="show_network_traffic_dynamic">Dynamic</string>
-    <string name="show_network_traffic_up">Upload</string>
-    <string name="show_network_traffic_down">Download</string>
-    <string name="show_network_traffic_all">Both</string>
-    <string name="nettraf_font_size">Single net font size</string>
+    <string name="network_traffic_arrow_summary">That\'s not ArrowOS, but hey, where is TH779?</string>
+    <string name="network_traffic_type">How Miku UI shows it?</string>
+    <string name="show_network_traffic_combined">Twins</string>
+    <string name="show_network_traffic_dynamic">Only on necessary</string>
+    <string name="show_network_traffic_up">Upload is enough</string>
+    <string name="show_network_traffic_down">Download is enough</string>
+    <string name="show_network_traffic_all">I want both</string>
+    <string name="nettraf_font_size">Font size when there\'s only single net</string>
 
     <!-- Themes Settings -->
     <!-- [CHAR_LIMIT=NONE] Developer Settings: Title of the settings category for theme overlays. -->
