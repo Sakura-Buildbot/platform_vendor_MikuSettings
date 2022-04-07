@@ -21,8 +21,8 @@
     <string name="device_part_title">专属设置</string>
 
     <!-- Statusbar net monitor -->
-    <string name="traffic_title">🌐网速显示</string>
-    <string name="network_traffic">🌐网速显示</string>
+    <string name="traffic_title">🌐 网速显示</string>
+    <string name="network_traffic">🌐 网速显示</string>
     <string name="network_traffic_location">要在什么地方显示网速呢？</string>
     <string name="traffic_disabled">不用啦~</string>
     <string name="traffic_statusbar">状态栏上面！</string>
