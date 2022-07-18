@@ -57,4 +57,9 @@
     <!-- [CHAR_LIMIT=NONE] Developer Settings: Label for the option that turns off customizations for a given category.-->
     <string name="theme_customization_device_default">Device default</string>
 
+	<!-- reTicker -->
+    <string name="reticker_title">Ticker</string>
+    <string name="reticker_summary">用新版ticker取代浮动通知（？</string>
+    <string name="reticker_colored_title">使用应用程序色彩背景</string>
+    <string name="reticker_colored_summary">使用通知应用主颜色替换 reTicker 背景颜色</string>
 </resources>
